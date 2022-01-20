@@ -8,8 +8,13 @@
   <a href="#dart-sobre">Sobre</a> &#xa0; | &#xa0;
   <a href="#rocket-principais-tecnologias">Tecnologias</a> &#xa0; | &#xa0;
   <a href="#bar_chart-apresentação">Apresentação</a> &#xa0; | &#xa0;
-  <a href="#checkered_flag-começando">Começando</a> &#xa0; | &#xa0;
-  <a href="#memo-licença">Licença</a> &#xa0; | &#xa0;
+  <a href="#a-adoção-de-micro-serviços">Adoção de micro serviços</a> &#xa0; | &#xa0;
+  <a href="#utilização-de-sistema-de-enfileiramento-junto-de-lambdas">Utilização de sistema de enfileiramento junto de lambdas</a> &#xa0; | &#xa0;
+  <a href="#utilização-de-cache-utilizando-redis-vs-utilização-do-elasticSearch">Utilização de cache utilizando Redis vs utilização do ElasticSearch</a> &#xa0; | &#xa0;
+  <a href="#escolha-do-banco-de-dados">Escolha do banco de dados</a> &#xa0; | &#xa0;
+  <a href="#segurança-escalabilidade-e-docker">Segurança, escalabilidade e docker</a> &#xa0; | &#xa0;
+  <a href="#uso-do-conceito-de-cqrs-para-leitura-e-gravação">Uso do conceito de CQRS para leitura e gravação</a> &#xa0; | &#xa0;
+  <a href="#api-baseada-em-eventos">API baseada em eventos</a> &#xa0; | &#xa0;
   <a href="https://github.com/Mauricio-Arantes" target="_blank">Autor</a>
 </p>
 
